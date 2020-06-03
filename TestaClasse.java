@@ -2,9 +2,8 @@
 public class TestaClasse {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
-		Cliente Pedro = new Cliente("Pedro Pacheco", "666.666.666-66", "Programador");
+		Cliente Pedro = new Cliente("Pedro Pacheco", "222.222.222-22", "Dev");
 			
 			
 		Conta contaDoPedro = new Conta(Pedro);
